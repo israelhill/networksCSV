@@ -26,11 +26,6 @@ try:
 			
 			dictionary[dest].append(port)
 			portDictionary[port] = [time]
-
-
-			# print "[SYN]  Me: " + source + "  " + "Server: " + dest
-			# print "Port: " + port
-			# print "\n"
 		
 		elif "[SYN, ACK]" in info:
 			port = infoArray[2]
@@ -41,16 +36,7 @@ try:
 
 			portDictionary[port].append(time)
 
-			# print "[SYN, ACK]  Server: " + source + "  " + "Me: " + dest
-			# print "Port: " + port
-			# print "\n"
-
-
 	for serverIp, port in dictionary.iteritems():
-				# print "Server: " + serverIp
-				# print port
-				# print "\n"
-
 				totalRTT = 0
 				count = 0
 				for p in port:
@@ -63,13 +49,6 @@ try:
 				print "Server IP: " + serverIp
 				print "Average RTT: " + str(avgRTT)
 				print "\n"
-
-	#print "__________________________________"
-
-	# for port, times in portDictionary.iteritems():
-	# 	print "Port: " + port
-	# 	print times
-	# 	print "\n"
 
 finally:
 	f.close()
