@@ -1,0 +1,630 @@
+Israel Hill
+EECS 325
+
+Server IP: 74.125.70.156
+Average RTT: 0.053235
+
+Server IP: 205.180.85.137
+Average RTT: 0.0492335
+
+Server IP: 54.175.190.44
+Average RTT: 0.017663
+
+Server IP: 136.243.32.149
+Average RTT: 0.182427
+
+Server IP: 217.79.188.59
+Average RTT: 0.2079695
+
+Server IP: 96.17.161.107
+Average RTT: 0.037035
+
+Server IP: 107.22.237.47
+Average RTT: 0.026502
+
+Server IP: 68.67.153.248
+Average RTT: 0.0490715
+
+Server IP: 50.116.194.28
+Average RTT: 0.034663
+
+Server IP: 173.192.220.64
+Average RTT: 0.032839
+
+Server IP: 64.30.234.49
+Average RTT: 0.133587
+
+Server IP: 216.58.216.104
+Average RTT: 0.130468
+
+Server IP: 216.58.216.102
+Average RTT: 0.059831
+
+Server IP: 54.243.65.91
+Average RTT: 0.033621
+
+Server IP: 208.111.160.6
+Average RTT: 0.0426205
+
+Server IP: 74.119.118.71
+Average RTT: 0.025907
+
+Server IP: 216.38.162.131
+Average RTT: 0.0821716666667
+
+Server IP: 216.58.216.227
+Average RTT: 0.0996435
+
+Server IP: 216.58.216.226
+Average RTT: 1.28846133333
+
+Server IP: 104.193.82.52
+Average RTT: 0.1091964
+
+Server IP: 64.12.68.41
+Average RTT: 0.030173
+
+Server IP: 52.4.34.161
+Average RTT: 0.0237015
+
+Server IP: 198.57.30.31
+Average RTT: 0.029696
+
+Server IP: 54.86.5.94
+Average RTT: 0.0437895
+
+Server IP: 54.152.25.195
+Average RTT: 0.017266
+
+Server IP: 114.111.83.201
+Average RTT: 0.266337
+
+Server IP: 104.87.154.158
+Average RTT: 0.028459
+
+Server IP: 107.21.249.50
+Average RTT: 0.0356965
+
+Server IP: 174.35.27.72
+Average RTT: 0.025733
+
+Server IP: 216.58.216.194
+Average RTT: 0.0438261428571
+
+Server IP: 64.12.20.193
+Average RTT: 0.028801625
+
+Server IP: 74.118.186.126
+Average RTT: 0.0968825
+
+Server IP: 54.164.55.103
+Average RTT: 0.017258
+
+Server IP: 74.119.118.100
+Average RTT: 0.065641
+
+Server IP: 208.101.10.227
+Average RTT: 0.1241685
+
+Server IP: 119.254.11.66
+Average RTT: 0.4810956
+
+Server IP: 23.21.238.215
+Average RTT: 0.0636898
+
+Server IP: 119.254.11.68
+Average RTT: 0.20719225
+
+Server IP: 216.58.216.110
+Average RTT: 0.050843
+
+Server IP: 54.84.228.233
+Average RTT: 0.017014
+
+Server IP: 74.119.118.94
+Average RTT: 0.027154
+
+Server IP: 50.116.194.21
+Average RTT: 0.03534625
+
+Server IP: 74.121.139.103
+Average RTT: 0.017448
+
+Server IP: 114.111.115.164
+Average RTT: 0.1757575
+
+Server IP: 54.243.51.45
+Average RTT: 0.01731
+
+Server IP: 192.5.110.39
+Average RTT: 0.00474575
+
+Server IP: 65.52.108.27
+Average RTT: 0.0209195
+
+Server IP: 192.243.250.36
+Average RTT: 0.0276815
+
+Server IP: 64.12.152.20
+Average RTT: 0.030879
+
+Server IP: 103.37.72.22
+Average RTT: 0.35702
+
+Server IP: 85.114.159.76
+Average RTT: 0.1170252
+
+Server IP: 192.229.163.37
+Average RTT: 0.038248
+
+Server IP: 104.16.75.39
+Average RTT: 0.0209216666667
+
+Server IP: 104.87.154.177
+Average RTT: 0.030574
+
+Server IP: 52.5.33.103
+Average RTT: 0.035327
+
+Server IP: 107.23.195.66
+Average RTT: 0.0177445
+
+Server IP: 52.5.247.189
+Average RTT: 0.0864495
+
+Server IP: 54.165.199.3
+Average RTT: 0.042791
+
+Server IP: 104.70.72.220
+Average RTT: 0.08509
+
+Server IP: 23.21.108.184
+Average RTT: 0.0165075714286
+
+Server IP: 184.72.216.150
+Average RTT: 0.0559125
+
+Server IP: 69.172.216.58
+Average RTT: 0.15452275
+
+Server IP: 64.20.243.253
+Average RTT: 0.1627655
+
+Server IP: 66.196.87.111
+Average RTT: 0.0377845
+
+Server IP: 98.139.225.42
+Average RTT: 0.034519
+
+Server IP: 162.248.19.136
+Average RTT: 0.023914
+
+Server IP: 69.172.216.56
+Average RTT: 0.152351
+
+Server IP: 158.85.41.203
+Average RTT: 0.033098
+
+Server IP: 69.172.216.55
+Average RTT: 0.056212
+
+Server IP: 216.58.216.206
+Average RTT: 0.0475943333333
+
+Server IP: 198.51.152.179
+Average RTT: 0.055879
+
+Server IP: 95.183.7.22
+Average RTT: 0.035726
+
+Server IP: 23.235.46.249
+Average RTT: 0.033033
+
+Server IP: 106.39.164.146
+Average RTT: 0.21381275
+
+Server IP: 49.129.31.76
+Average RTT: 0.268456666667
+
+Server IP: 104.70.75.179
+Average RTT: 0.177112
+
+Server IP: 72.251.229.242
+Average RTT: 0.017203
+
+Server IP: 133.208.59.131
+Average RTT: 0.1658655
+
+Server IP: 198.54.12.127
+Average RTT: 0.034399
+
+Server IP: 133.208.59.133
+Average RTT: 0.190358
+
+Server IP: 54.159.4.204
+Average RTT: 0.01777
+
+Server IP: 104.70.63.194
+Average RTT: 0.088616
+
+Server IP: 216.239.120.246
+Average RTT: 0.111089
+
+Server IP: 192.229.163.25
+Average RTT: 0.02122725
+
+Server IP: 104.69.219.52
+Average RTT: 0.076055
+
+Server IP: 74.201.141.140
+Average RTT: 0.044702
+
+Server IP: 206.190.56.191
+Average RTT: 0.105945
+
+Server IP: 69.25.24.26
+Average RTT: 0.046695
+
+Server IP: 96.17.161.131
+Average RTT: 0.053576
+
+Server IP: 54.200.227.110
+Average RTT: 0.08614575
+
+Server IP: 62.138.116.3
+Average RTT: 0.169051571429
+
+Server IP: 23.227.10.42
+Average RTT: 0.098863
+
+Server IP: 96.17.161.96
+Average RTT: 0.0354926666667
+
+Server IP: 66.150.118.12
+Average RTT: 0.035731
+
+Server IP: 54.175.151.158
+Average RTT: 0.019081
+
+Server IP: 211.152.122.166
+Average RTT: 0.294225
+
+Server IP: 211.152.122.165
+Average RTT: 0.346083
+
+Server IP: 62.138.116.15
+Average RTT: 0.163071
+
+Server IP: 54.85.135.9
+Average RTT: 0.079692
+
+Server IP: 69.25.24.24
+Average RTT: 0.0325862
+
+Server IP: 23.235.46.166
+Average RTT: 0.031996
+
+Server IP: 69.89.93.5
+Average RTT: 0.1572736
+
+Server IP: 58.83.212.158
+Average RTT: 0.319526
+
+Server IP: 173.194.121.26
+Average RTT: 0.131218
+
+Server IP: 23.23.199.129
+Average RTT: 0.0241406428571
+
+Server IP: 52.6.131.219
+Average RTT: 0.0371723333333
+
+Server IP: 54.172.55.84
+Average RTT: 0.0168095
+
+Server IP: 64.74.232.43
+Average RTT: 0.0774002
+
+Server IP: 52.6.155.118
+Average RTT: 0.020025
+
+Server IP: 104.70.51.248
+Average RTT: 0.0343715
+
+Server IP: 192.5.110.41
+Average RTT: 0.0064976875
+
+Server IP: 192.5.110.40
+Average RTT: 0.0672167272727
+
+Server IP: 54.85.76.73
+Average RTT: 0.0162466666667
+
+Server IP: 104.87.131.106
+Average RTT: 0.0536049230769
+
+Server IP: 217.79.188.16
+Average RTT: 0.1151365
+
+Server IP: 72.21.91.76
+Average RTT: 0.0202536666667
+
+Server IP: 104.70.57.37
+Average RTT: 0.033421
+
+Server IP: 63.251.210.243
+Average RTT: 0.189794
+
+Server IP: 23.227.10.30
+Average RTT: 0.0838145
+
+Server IP: 104.70.75.151
+Average RTT: 0.0822971666667
+
+Server IP: 74.125.228.237
+Average RTT: 0.028609
+
+Server IP: 152.163.64.2
+Average RTT: 0.029377
+
+Server IP: 67.217.177.164
+Average RTT: 0.032122
+
+Server IP: 74.119.118.85
+Average RTT: 0.0270705
+
+Server IP: 199.187.193.1
+Average RTT: 0.050111
+
+Server IP: 23.0.163.186
+Average RTT: 0.0213793333333
+
+Server IP: 122.132.255.155
+Average RTT: 0.25813925
+
+Server IP: 50.16.234.248
+Average RTT: 0.1302155
+
+Server IP: 208.111.161.254
+Average RTT: 0.0259453333333
+
+Server IP: 98.137.201.232
+Average RTT: 0.037335
+
+Server IP: 216.58.216.225
+Average RTT: 0.036476
+
+Server IP: 211.152.123.232
+Average RTT: 0.263580714286
+
+Server IP: 199.16.156.232
+Average RTT: 0.046549
+
+Server IP: 31.13.69.203
+Average RTT: 0.019647
+
+Server IP: 198.8.70.212
+Average RTT: 0.031089
+
+Server IP: 104.87.145.114
+Average RTT: 0.11796775
+
+Server IP: 152.163.66.131
+Average RTT: 0.028457
+
+Server IP: 107.20.210.88
+Average RTT: 0.016912
+
+Server IP: 104.70.55.71
+Average RTT: 0.0383805
+
+Server IP: 50.31.185.43
+Average RTT: 0.0271868
+
+Server IP: 104.87.149.29
+Average RTT: 0.034881
+
+Server IP: 54.164.138.135
+Average RTT: 0.018886
+
+Server IP: 104.193.82.53
+Average RTT: 0.057843
+
+Server IP: 198.41.215.7
+Average RTT: 0.014012
+
+Server IP: 54.230.101.133
+Average RTT: 0.144739
+
+Server IP: 184.50.238.160
+Average RTT: 0.0340505
+
+Server IP: 8.15.229.45
+Average RTT: 0.0248228333333
+
+Server IP: 54.231.140.120
+Average RTT: 0.1351
+
+Server IP: 37.157.5.69
+Average RTT: 0.1762765
+
+Server IP: 138.108.6.20
+Average RTT: 0.035708
+
+Server IP: 104.87.153.86
+Average RTT: 0.140483428571
+
+Server IP: 23.0.163.137
+Average RTT: 0.117975
+
+Server IP: 8.43.72.52
+Average RTT: 0.149755
+
+Server IP: 208.101.15.43
+Average RTT: 0.0592005
+
+Server IP: 107.20.170.239
+Average RTT: 0.016449
+
+Server IP: 208.71.122.1
+Average RTT: 0.054288
+
+Server IP: 107.21.246.115
+Average RTT: 0.02014
+
+Server IP: 66.135.211.132
+Average RTT: 0.156954
+
+Server IP: 184.50.238.217
+Average RTT: 0.0405906666667
+
+Server IP: 62.138.116.39
+Average RTT: 0.136936
+
+Server IP: 74.125.228.249
+Average RTT: 0.0471385
+
+Server IP: 54.230.100.36
+Average RTT: 0.03446
+
+Server IP: 69.172.216.111
+Average RTT: 0.144464333333
+
+Server IP: 199.83.132.174
+Average RTT: 0.16468
+
+Server IP: 74.125.226.82
+Average RTT: 0.122335571429
+
+Server IP: 31.13.71.12
+Average RTT: 0.042135
+
+Server IP: 211.14.21.29
+Average RTT: 0.1643615
+
+Server IP: 111.206.227.118
+Average RTT: 0.295784
+
+Server IP: 204.2.197.201
+Average RTT: 0.026575
+
+Server IP: 54.209.195.89
+Average RTT: 0.040852
+
+Server IP: 74.125.201.95
+Average RTT: 0.083062
+
+Server IP: 50.116.194.23
+Average RTT: 0.0663514
+
+Server IP: 74.119.118.66
+Average RTT: 0.026084
+
+Server IP: 38.74.193.138
+Average RTT: 0.0271655
+
+Server IP: 52.21.120.173
+Average RTT: 0.04432725
+
+Server IP: 50.31.164.166
+Average RTT: 0.043089
+
+Server IP: 74.121.142.217
+Average RTT: 0.077486
+
+Server IP: 23.23.157.80
+Average RTT: 0.0159825
+
+Server IP: 54.84.239.122
+Average RTT: 0.023182
+
+Server IP: 117.135.175.158
+Average RTT: 0.2577965
+
+Server IP: 72.21.91.8
+Average RTT: 0.0341920909091
+
+Server IP: 61.135.185.179
+Average RTT: 0.306063
+
+Server IP: 72.30.2.182
+Average RTT: 0.036941
+
+Server IP: 54.243.200.77
+Average RTT: 0.0171235
+
+Server IP: 66.211.189.115
+Average RTT: 0.14702075
+
+Server IP: 106.39.164.166
+Average RTT: 0.279065666667
+
+Server IP: 98.139.225.35
+Average RTT: 0.036424
+
+Server IP: 23.0.163.162
+Average RTT: 0.0408453333333
+
+Server IP: 199.233.57.12
+Average RTT: 0.063479
+
+Server IP: 136.243.15.74
+Average RTT: 0.160012625
+
+Server IP: 54.230.100.152
+Average RTT: 0.0481103333333
+
+Server IP: 70.42.33.241
+Average RTT: 0.019226
+
+Server IP: 66.29.212.110
+Average RTT: 0.161468
+
+Server IP: 23.21.68.198
+Average RTT: 0.016908
+
+Server IP: 72.2.116.215
+Average RTT: 0.023541
+
+Server IP: 192.243.250.20
+Average RTT: 0.048609
+
+Server IP: 54.225.150.170
+Average RTT: 0.0214025
+
+Server IP: 52.6.101.202
+Average RTT: 0.151089
+
+Server IP: 173.192.202.135
+Average RTT: 0.041761
+
+Server IP: 64.30.234.73
+Average RTT: 0.048223
+
+Server IP: 91.215.100.40
+Average RTT: 0.200464
+
+Server IP: 72.30.202.150
+Average RTT: 0.035739
+
+Server IP: 216.58.216.97
+Average RTT: 0.108425
+
+Server IP: 216.58.216.238
+Average RTT: 0.1338718
+
+Server IP: 205.185.216.10
+Average RTT: 0.030682
+
+Server IP: 216.58.216.234
+Average RTT: 0.153557
+
+Server IP: 31.13.71.7
+Average RTT: 0.021244
+
+Server IP: 104.70.55.222
+Average RTT: 0.176246333333
+
+Server IP: 192.229.163.158
+Average RTT: 0.0698168679245
+

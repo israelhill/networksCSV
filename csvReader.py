@@ -53,6 +53,9 @@ try:
 		else:
 			pass
 
+	output = open('output.txt','w')
+	output.write('Israel Hill\n' + 'EECS 325\n\n')
+
 	# iterate over dictionaries to calcualte avg RTT times
 	for serverIp, port in dictionary.iteritems():
 				totalRTT = 0
@@ -67,9 +70,9 @@ try:
 
 				# calcualte avg RTT time
 				avgRTT = totalRTT/count
-				print "Server IP: " + serverIp
-				print "Average RTT: " + str(avgRTT)
-				print "\n"
+				output.write("Server IP: " + serverIp + '\n')
+				output.write("Average RTT: " + str(avgRTT) + '\n\n')
 
 finally:
 	f.close()
+	output.close()
